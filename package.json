@@ -33,3 +33,6 @@
     "typescript": "^5.5.4"
   }
 }
+"class-variance-authority": "^0.7.0",
+"@radix-ui/react-select": "^2.0.0",
+"@radix-ui/react-label": "^2.0.2"
