@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "vercel-build": "next build"
+    },
   },
   "dependencies": {
     "@heroicons/react": "^2.1.5",
@@ -35,5 +36,4 @@
     "tailwindcss": "^3.4.9",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.5.4"
-  },
-}
+  }
